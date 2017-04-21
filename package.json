@@ -1,0 +1,32 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "Dependencies required for running the server",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "~4.0.0",
+    "forever": "~0.15.2",
+    "nodemailer": "^2.6.4"
+  },
+  "devDependencies": {
+    "body-parser": "^1.15.2",
+    "gulp": "~3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-cache": "~0.4.5",
+    "gulp-clean": "~0.3.2",
+    "gulp-clean-css": "~2.0.13",
+    "gulp-concat": "~2.6.0",
+    "gulp-order": "~1.1.1",
+    "gulp-rename": "~1.2.2",
+    "gulp-uglify": "~2.0.0",
+    "nodemailer": "^2.6.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/suzu_technologies/landing-page.git"
+  },
+  "author": "Claudiu S.",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/suzu_technologies/landing-page#readme"
+}
